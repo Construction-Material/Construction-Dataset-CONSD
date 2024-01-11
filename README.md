@@ -20,3 +20,6 @@ If you find CONSD dataset is helpful for your research, please consider giving a
 ```
 Junjie Jiang, Chengke Wu, Wenjie Sun, Yong He, Yuanjun Guo, Yang Su, Zhile Yang. Ontology-based distant supervision for extracting entity-property relations in construction documents.
 ```
+
+## Contact
+Any question please contact [junj.chiang1102@gmail.com](mailto:junj.chiang1102@gmail.com).
